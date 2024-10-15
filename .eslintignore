@@ -1,0 +1,7 @@
+node_modules/*
+/scripts
+/config
+public
+dist
+.umi
+/src/lib
